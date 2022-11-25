@@ -1,0 +1,14 @@
+.formulario {
+    font-family: 'Rubik Distressed', cursive;
+    text-align: center;
+    background-color: khaki;
+    height: 40vh;
+}
+
+.lottie {
+    background-color: rgb(92, 211, 53);
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
